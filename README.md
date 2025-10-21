@@ -139,15 +139,11 @@ If you use this repository or build upon this research, please cite:
 AI & Cybersecurity Researcher | ECE Undergraduate (2023–2027)
 Passionate about Neuromorphic AI, BCI Systems, and Defense Technologies
 📍 Haridwar, India | 🌏 Aspiring to research in Wellington, NZ
-📧 Contact: [LinkedIn](https://linkedin.com/in/suhaniverma) · [GitHub](https://github.com/suhaniverma)
+📧 Contact: [LinkedIn](https://www.linkedin.com/in/suhani-verma-suv/) · [GitHub](https://github.com/Victory-7)
 
 ---
 
 ⭐ *If you find this project interesting, don’t forget to star the repo!*
 
-```
-
 ---
 
-Would you like me to make it more **academic-style (IEEE paper tone)** or **portfolio-style (GitHub + recruiter-friendly)**? I can format it accordingly — for example, adding shields/badges, diagrams, or command-line demo snippets.
-```
